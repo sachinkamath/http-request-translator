@@ -14,6 +14,7 @@ It supports the following languages:
 + PHP
 + Python
 + Ruby
++ PHP
 
 HTTP Request Translator can be used via its CLI or be imported from your own
 python project (actively supported version 2.7 and 3.3+).
